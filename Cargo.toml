@@ -1,0 +1,15 @@
+[package]
+name = "yaam"
+version = "0.2.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.29"
+egui_extras = "0.29" 
+tar = "0.4"
+zstd = "0.13"
+walkdir = "2.4"
+anyhow = "1.0"
+zip = "0.6"
+sevenz-rust = "0.6"
+rfd = "0.15"
