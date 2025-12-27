@@ -44,7 +44,7 @@
 
 ### Windows Installer (Recommended)
 
-1. Go to the [**Releases**](https://github.com/YOUR_USERNAME/yaam/releases) page.
+1. Go to the [**Releases**](https://github.com/knotorganization/YAAM/releases) page.
 2. Download `YAAM_Setup.exe`.
 3. Run the installer to set up the **Context Menu** and file associations automatically.
 
